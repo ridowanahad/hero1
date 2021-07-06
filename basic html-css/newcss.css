@@ -1,0 +1,31 @@
+ #idd {
+     color: darkslateblue;
+ }
+ 
+ .title {
+     border: 10px solid rgb(7, 163, 150);
+     border-radius: 60px;
+     margin: 30px 30px;
+     margin-bottom: 5px;
+     /*border size*/
+     padding: 45px;
+     /*inside border size*/
+     width: 9%;
+     height: 25%;
+     text-align: center;
+     color: rgb(136, 19, 231);
+ }
+ 
+ .para {
+     border: 10px solid rgb(7, 163, 150);
+     border-radius: 60px;
+     margin: 30px 15px;
+     margin-bottom: 5px;
+     /*border size*/
+     padding: 45px;
+     /*inside border size*/
+     width: 55%;
+     height: 25%;
+     text-align: justify;
+     color: darkolivegreen;
+ }
